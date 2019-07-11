@@ -1,0 +1,13 @@
+{
+  "env/lib/python2.7/site-packages/pbr/tests/test_commands.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_core.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_files.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_hooks.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_integration.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_packaging.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_pbr_json.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_setup.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_util.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_version.py": true,
+  "env/lib/python2.7/site-packages/pbr/tests/test_wsgi.py": true
+}
