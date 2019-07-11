@@ -1,0 +1,20 @@
+  <%# form_tag( { :action => 'update' }, :multipart => true ) %>
+   <!-- Upload file:  <%# file_field( "form", "file" ) %>
+   <br /> -->
+
+    <%# submit_tag( "Upload file" ) %>
+ <%# end_form_tag %>
+ <form action="/welcome/update" method="post">
+  <input type="text" name="test">
+  <input name="authenticity_token" value="<%= form_authenticity_token %>" type="hidden">
+  <input type="submit" value="Submit This Form">
+</form>
+this is home
+
+<% 11.times do |i| %>
+    <%= i %>
+<% end %><br>
+<% if(params.has_key?(:id) && params.has_key?(:random))%>
+    <%= "ID : #{:id}"%><br>
+    <%= "RANDOM: #{:random}"%>
+<% end %>

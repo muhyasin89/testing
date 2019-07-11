@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  password: one
+  email: one@gmail.com
+  firstname: first1
+  lastname: last1
+  salt: kamdkafd
+  password_digest: 1234567890
+
+two:
+  password: two
+  email: two@gmail.com
+  firstname: first2
+  lastname: last2
+  salt: asaasdfasd
+  password_digest: 1234567890

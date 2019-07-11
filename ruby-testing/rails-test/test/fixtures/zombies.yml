@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ash:
+  id: 1
+  name: Ash
+  graveyard: Oak Hous
+
+hei:
+  id: 2
+  name: Hei hei
+  graveyard: Ocean
